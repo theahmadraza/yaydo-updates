@@ -14,3 +14,9 @@ Release steps: publish the new version on Google Play first, wait until it's liv
 re-checks on every open while an update is required.
 
 Nothing about users is sent: the app makes a plain request for this file.
+
+## Privacy policy
+
+`privacy.html` is the public copy of the in-app privacy policy (Settings › Help and about ›
+Privacy policy, `src/app/settings/privacy.tsx` in the app repo), served by GitHub Pages at
+https://theahmadraza.github.io/yaydo-updates/privacy.html for the Play listing. Keep the two in step.
